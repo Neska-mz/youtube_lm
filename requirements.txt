@@ -1,0 +1,10 @@
+chromadb
+numpy
+pandas
+bm25s
+pytubefix
+nltk
+google-genai
+python-dotenv
+ipython
+jupyter
